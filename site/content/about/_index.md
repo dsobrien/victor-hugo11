@@ -1,29 +1,10 @@
 +++
-title = "About Hugo"
 date = "2014-04-09"
+title = "About Hugo"
+
 +++
+Lover of all things beauty, health, and fashion, I’m a Los Angeles native and a self-proclaimed social media junkie. I’m a recent Master of Communication Management (MCM) graduate from the BEAUTIFUL University of Southern California – FIGHT ON!! – and as any true Trojan would say, I wouldn’t have wanted to get my education anywhere else. My time at USC was nothing short of amazing and I’m excited to embark on my journey in the Public Relations world. Being able to utilize my love for writing and creating in my career is a dream come true! 
 
-Hugo is a static site engine written in Go.
+Outside of academics and my education, I do have other interests and passions (although it didn’t seem like it during grad school!) I have a passion for competitive cheerleading and have been dedicated to the sport, first as an athlete and now as a coach, for 16 years. My love for the sport grows every time I see an athlete accomplish a goal, or a team overcomes a hurdle they’ve been struggling with.
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+Oh! I’m also obsessed with my chocolate lab, Barkley (yes, another USC reference) and love to get outside whenever I can! 
