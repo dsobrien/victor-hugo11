@@ -11,6 +11,8 @@ title = "Wet n Wild: Cruelty Free Cosmetics OpEd"
 type = "post"
 
 +++
+![](/uploads/blur-brush-close-up-457704.jpg)
+
 # Wet n Wild: Cruelty Free Cosmetics OpEd
 
 Wet n Wild, a Los Angeles based beauty brand, offers affordable, well-made products. Most of Wet n Wilds products can be purchased for less than ten dollars at any major drug store.
