@@ -11,8 +11,8 @@ title = "Deconstructing a PR Case: Starbucks Unicorn Frappuccino"
 type = "post"
 
 +++
-
 ## Deconstructing a PR Case: Starbucks Unicorn Frappuccino
+
 Starbucks is at the forefront of the coffee industry. The organization currently has over 24,000 retail stores in over 70 countries. The first Starbucks opened in 1971 in Seattle, Washington at Pikes Place Market. The store is still in operation and is often an attraction for tourists and locals alike according to Lewis (n.d.). Starbucks offers over 30 blends of coffee along with teas, smoothies, blended drinks, fresh food, merchandise and even has ready to drink items sold at various markets and stores. In recent years Starbucks has also began to offer Via Instant Coffee, pods for Starbucks’ instant coffee maker, and K-cup pods for Keurig machines. Starbucks offers seasonal and limited-time only products in addition to its permanent menu items.
 
 According to Starbucks Investor Relations’ (2017) fiscal reporting, the company is up in sales globally and in the U.S., up in revenue, and up in operating income. It was also reported that in its 2nd Quarter of 2017 the company’s consolidated net revenue came in at $5.3 billion which was up six percent (Starbucks Investor Relations, 2017). Starbucks’ 2017 fiscal reporting also includes reports of non-monetary categories such as rewards program information and other information shareholders may be interested in. The 2017 report notes Starbucks increased U.S. membership in their rewards program to 13.3 million members (Starbucks Investor Relations, 2017).
