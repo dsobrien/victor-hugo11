@@ -1,17 +1,17 @@
 +++
 author = "Anna-Mari"
-categories = ["sweey", "automotic"]
-date = "2014-03-10"
+categories = []
+date = "2014-04-02"
 description = ""
 featured = "pic02.jpg"
 featuredalt = "Pic 2"
 featuredpath = "date"
 linktitle = ""
-title = "Deconstructing a PR Case: Starbucks Unicorn Frappuccino"
+title = "DECONSTRUCTING A PR CASE: STARBUCKS UNICORN FRAPPUCCINO"
 type = "post"
 
 +++
-## Deconstructing a PR Case: Starbucks Unicorn Frappuccino
+# DECONSTRUCTING A PR CASE: STARBUCKS UNICORN FRAPPUCCINO
 
 Starbucks is at the forefront of the coffee industry. The organization currently has over 24,000 retail stores in over 70 countries. The first Starbucks opened in 1971 in Seattle, Washington at Pikes Place Market. The store is still in operation and is often an attraction for tourists and locals alike according to Lewis (n.d.). Starbucks offers over 30 blends of coffee along with teas, smoothies, blended drinks, fresh food, merchandise and even has ready to drink items sold at various markets and stores. In recent years Starbucks has also began to offer Via Instant Coffee, pods for Starbucks’ instant coffee maker, and K-cup pods for Keurig machines. Starbucks offers seasonal and limited-time only products in addition to its permanent menu items.
 
@@ -67,8 +67,7 @@ Another key audience for the organization is heavy social media users. People ag
 
 Messages
 
-There are three key messages Starbucks is trying to communicate to the key audiences.
-• Starbucks is in tune with consumers and stays on top of social media trends
+There are three key messages Starbucks is trying to communicate to the key audiences. • Starbucks is in tune with consumers and stays on top of social media trends
 
 • Starbucks is more than what is on their menu- we have seasonal drinks, and a secret menu, and we often offer new products we offer
 
