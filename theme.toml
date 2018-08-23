@@ -1,18 +1,18 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
-name = "Hugo Future Imperfect"
+name = "Anna-Mari Boskovich"
 license = "MIT"
 licenselink = "https://github.com/jpescador/hugo-future-imperfect/blob/master/LICENSE.md"
 description = "Ported theme of HTML5 UP, future imperfect, with some extra goodies"
 homepage = "https://github.com/jpescador/hugo-future-imperfect"
-tags = ["blog", "responsive", "font awesome", "highlight.js", "fancybox 3", "staticman", "netlify"]
+tags = ["blog", "responsive", "PR", "Public Relations", "fancybox 3", "staticman", "netlify"]
 features = ["html5", "css3", "responsive"]
 min_version = 0.15
 
 [author]
-  name = "Julio Pescador"
-  homepage = "https://jpescador.com"
+  name = "Anna-mari Boskovich"
+  homepage = "https://annamaribosko"
 
 # If porting an existing theme
 [original]
