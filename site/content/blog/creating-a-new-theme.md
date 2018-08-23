@@ -3,12 +3,12 @@ author = "Anna-Mari"
 categories = ["Travel"]
 tags = ["Travel"]
 date = "2014-09-28"
-description = "Back to the homeland!"
+description = "Home Sweet Home"
 featured = "pic04.jpg"
 featuredalt = "Pic 4"
 featuredpath = "date"
 linktitle = ""
-title = "Creating a New Theme"
+title = "Back to the Homeland!"
 type = "post"
 
 +++
